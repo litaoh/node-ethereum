@@ -1,7 +1,7 @@
 # INSTALL
 
 ```bash
-npm install @ethereum/contract
+npm install ethereum-contract
 ```
 
 # USAGE
@@ -9,7 +9,7 @@ npm install @ethereum/contract
 usage examples:
 
 ```typescript
-import { FunctionParameter, ContractFunction, ContractABI } from '../src';
+import { FunctionParameter, ContractFunction, ContractABI } from 'ethereum-contract';
 import BN from 'bn.js';
 
 const address: string = '0x8e41fa729ed07b39b2cf004187b710a55e840bc5';

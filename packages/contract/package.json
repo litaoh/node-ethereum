@@ -1,5 +1,5 @@
 {
-  "name": "@ethereum/contract",
+  "name": "ethereum-contract",
   "version": "1.0.0",
   "description": "evm contract",
   "main": "dist/index.js",
